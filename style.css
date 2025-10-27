@@ -19,14 +19,14 @@ body{
 }
 
 h1{
-    color: rgb(44, 143, 237);
+    color: rgb(211, 243, 0);
 }
 
 button{
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: rgb(39, 119, 248);
+    background-color: rgb(197, 212, 63);
     border: none;
     border-radius: 5px;
     cursor: pointer;
